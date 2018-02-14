@@ -1,0 +1,54 @@
+51906b7a963efd18b42a8ed9956d3b155e1e961f Merge branch 'release'
+fbd558cfd848bdec349d7a0e4074445b8c362b1d Modificado novo_arquivo
+81e0583b11c9d5e9426d31dc5a337d19723d99e5 Novo arquivo added na branch release
+38d7484fc035c607ab26f384c0b28e2052c0b932 Added arquivo1
+0e9fb0744f5223a4bbf55be2938ba3a2a3f76715 Primeiro arquivo
+commit 51906b7a963efd18b42a8ed9956d3b155e1e961f
+Merge: 38d7484 fbd558c
+Author: Joao Tarla <jctarla@yahoo.com>
+Date:   Wed Feb 14 13:51:07 2018 +0000
+
+    Merge branch 'release'
+
+commit fbd558cfd848bdec349d7a0e4074445b8c362b1d
+Author: Joao Tarla <jctarla@yahoo.com>
+Date:   Wed Feb 14 13:49:22 2018 +0000
+
+    Modificado novo_arquivo
+
+ novo_arquivo | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 81e0583b11c9d5e9426d31dc5a337d19723d99e5
+Author: Joao Tarla <jctarla@yahoo.com>
+Date:   Wed Feb 14 13:47:29 2018 +0000
+
+    Novo arquivo added na branch release
+
+ novo_arquivo | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 38d7484fc035c607ab26f384c0b28e2052c0b932
+Author: Joao Tarla <jctarla@yahoo.com>
+Date:   Wed Feb 14 13:46:00 2018 +0000
+
+    Added arquivo1
+
+ arquivo1 | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 0e9fb0744f5223a4bbf55be2938ba3a2a3f76715
+Author: Joao Tarla <jctarla@yahoo.com>
+Date:   Wed Feb 14 13:44:52 2018 +0000
+
+    Primeiro arquivo
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+*   51906b7 Merge branch 'release'
+|\  
+| * fbd558c Modificado novo_arquivo
+| * 81e0583 Novo arquivo added na branch release
+|/  
+* 38d7484 Added arquivo1
+* 0e9fb07 Primeiro arquivo
